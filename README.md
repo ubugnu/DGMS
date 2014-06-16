@@ -156,4 +156,9 @@ This will make the script do 15 simultaneous downloads at the same time (it may 
 
 If you're bikers, hikers or everything else and this script helped you, please consider helping us to support our work, thank you :-)
 
-<a href='https://pledgie.com/campaigns/25681'><img alt='Click here to lend your support to: Distributed Google Maps Scraper and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/25681.png?skin_name=chrome' border='0' ></a>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="L94ML4RUPYJW8">
+<input type="image" src="https://raw.githubusercontent.com/ubugnu/jquery-ui/master/donate.png" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !">
+<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
+</form>
