@@ -145,6 +145,7 @@ This will make the script do 15 simultaneous downloads at the same time (it may 
 
 ## TODO
 
+* Handle GPS on mobile.
 * Add the "Terrain" feature (very easy in fact).
 * Make the jquery application more mobile friendly (use jquery mobile?).
 * Make the bash script consume less resources.
