@@ -153,12 +153,3 @@ This will make the script do 15 simultaneous downloads at the same time (it may 
 * Add the "mark a position" feature.
 * Do not use flat files, make it export tiles to a DB format like RMaps SQLite Database.
 
-<!---## Support us-->
-
-<!---If you're bikers, hikers or everything else and this script helped you, please consider helping us to support our work, thank you :-)-->
-
-<!---[<img src="https://raw.githubusercontent.com/ubugnu/jquery-ui/master/donate.png">](https://www.paypal.com/cgi-bin/webscr?hosted_button_id=L94ML4RUPYJW8&cmd=_s-xclick)-->
-
-
-
-
